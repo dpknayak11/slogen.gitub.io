@@ -1,0 +1,613 @@
+* {
+    font-family: poppins;
+}
+p {
+    font-family: poppins, light;
+    font-weight: 300;
+    line-height: 25px;
+   
+}
+h{
+    font-family: poppins, bold;
+}
+
+
+.row.header{
+    padding-top: 16px;
+}
+.row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+#loginandfreebutton{
+    float: right;
+   
+}
+#homelogoimg{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.learnmorebutton{
+    background-color: red;
+}
+.btn.btn-secondary {
+    color: #fff;
+    background-color: #27b8ca;
+    border: none;
+    margin: 4px;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0px;
+    margin-left: -1px;
+    
+}
+.btn.btn-secondary2 {
+    color: #fff;
+    background-color: #27b8ca;
+    border: none;
+    margin: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 11px 22px;
+}
+.btn.btn-secondary3 {
+    color: rgb(8, 186, 199);
+    background-color: #ffffff;
+    border: 1px solid #27b8ca;
+    margin: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    padding: 10px 12px;
+    
+} 
+.wel{
+    padding-top: 8%;
+}
+#slogenlogo
+{
+    font-family:Poppins, bold;
+    color: #27b8ca;
+   font-size: 50px;
+    font-weight: 800;
+    margin-left: -1px;
+}
+.startin{
+    background-color: #27b8ca;
+    border: 0px solid ;
+    margin-right: 3px;
+    color: white;
+}
+
+
+.row.banner1{
+    background-color: #f8f8f8;
+}
+.col-6.alllogo{
+    width: 20px;
+}
+
+#loremp{
+    padding-top: 17px;
+  
+}
+#learnmoreimg{
+    padding-left: 20px;
+}
+.logostext{
+    display: flex;
+    padding: 5px 10px;
+}
+#logo5{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -19px;
+    
+}
+.logostext p {
+    padding:10px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 20px;
+}
+#learnmore{
+    padding-left: 10px;
+}
+.logostext img{
+    padding: 10px;
+}
+
+.logohover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
+    margin: 13px;
+    padding: 15px 10px 5px 10px;
+}
+.logohover:hover{
+    box-shadow: rgba(230, 181, 181, 0.24) 0px 3px 8px;}
+.col-sm-4.logo2{
+    margin-top: 13%;
+}
+img.responsive.hoverclass:hover {   
+    padding: 5px;
+}
+.logohover p {
+    font-family: poppins;
+    font-size: 16px;
+    font-weight:500;
+}
+.alllogo{
+width: 35px;
+padding-top: 10px;
+
+}
+#section-1{
+    padding: 0 75px 0px 75px ;
+}
+/* ........................................... */
+.bannerimg12{
+    background: url(../images/bannerimg12.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#free
+{
+    font-family: Poppins;
+    color: #8a231f;
+    font-size: 35px;
+    background-color: #fff2f1;
+    font-weight: 700;
+    padding: 2px 10px;
+}
+.text-center pre h1{
+    font-family: poppins;
+    font-weight: 600 !important;
+    font-size: 31px !important;
+}
+
+.row.feed1{
+    padding: 5px 10px;
+    max-width: 20%;
+}
+.feed{
+    border: 1px solid #ab9090;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.col-3.feed {
+    max-width: 18%;
+    margin: 27px;
+}
+.freetext{
+    padding: 108px 0 0 150px;
+    margin-right: -50px;
+}
+.freetext p{
+    margin-top: 15px;
+    font-size: 14px;
+    font-family: poppins;
+    margin-bottom: 20px;
+
+}
+.boxs4{
+    display: flex;
+    justify-content: center;
+}
+.boxs4 img{
+   border: 1px solid #e4e4e4;
+   margin: 13px;
+   padding: 5px 20px;
+}
+.bannerimg{
+    
+        background: url(../images/bannerimg12.png);
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+  .trust{
+    text-align: center;
+    padding-top: 40px;
+  }
+  #trusttext{
+    font-family: poppins ;
+    font-weight: 600;
+    font-size: 45px;
+}
+/* slider............... */
+  .row.sliderimg{
+      margin-top: 40px;
+  }
+  .slide_content1 {
+    height: 50%;
+    width: 100%;
+    margin: 1px 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;    
+    background-color: #ffffff;
+
+}
+.slide_content1 p{
+ font-family: poppins;
+ font-size: 13px;
+ padding: 10px 11px;
+}
+.col-1.button1{
+    margin-top: 14%;
+}
+
+.items {
+    width: 70%;
+    margin: 0px auto;
+    margin-top: 20px
+    
+}
+
+
+.slick-slide img {
+    width: 100%;
+    border: 0px solid #fff
+}
+
+.slick-prev:before,.slick-next:before {    
+    font-size: 47px !important;       
+    color: #07a8d6 !important;  
+    font-weight: 800;
+   
+}
+.slick-prev {
+    left: -66px !important;
+}
+.slick-next {
+    right: -47px !important;
+}
+
+.bannerimg2 { 
+    background: url(../images/banner2.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+  }
+  .col-md-5.man{
+    padding-top: 9%;
+  }
+ 
+  .col-4.logo4{
+      padding-top: 20%;
+  }
+
+  .helpyou{
+    font-family:helpyou;
+    color: white;
+}
+  .col-md-7.input{
+    padding: 6%;
+  }
+  #submitb{
+    background-color: brown;
+    color: white;
+    margin-top: 2%;
+    border: 0px;
+    border-radius: 0px;
+}
+
+input.form-control.inputtext {
+    border-radius: 0px;
+}
+
+.container.textgirl{
+    background-color: #27b8ca;
+    color: white;
+    border-radius: 32px;
+    width: 80%;
+}
+
+.col-7.textinbanner{
+    padding-top: 5%;
+}
+
+.girlimg{
+    margin-top: -65px;
+}
+#last_paragraph{
+    padding-right: 14%;
+    font-size: 14px;
+}
+.footer{
+    background-color: #2d2c4c;
+    color: #b9b9c5;
+    padding-top: 54px;
+    font-size: 15px;
+}
+
+.col-6 p a{
+    text-decoration: none;
+    color: #b9b9c5; 
+    
+}
+.col-6 p{
+   
+    padding-top: 4px;
+    
+}
+.col-md-2 p{
+    padding-top: 4px;
+}
+.maintext2{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.maintext button:not(:focus-visible) {
+    outline: 0;
+    float: right;
+    margin-top: -35px;
+    border: none;
+    color: #07a8d6;
+    
+}
+.maintext2 button:not(:focus-visible) {
+    outline: 0;
+    float: right;
+    margin-top: -35px;
+    border: none;
+    color: #07a8d6;
+    background-color: #f5f5f5;
+}
+.maintext{
+    margin-bottom: -16px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.col-md-6.section-3{
+    margin-top: 25px;
+}
+.col-md-6.section-4{
+  
+}
+#lorenboldtext {
+    font-family: poppins,bold;
+    font-weight: 550;
+    font-size: 60px;
+}
+
+.cont{
+    padding-top: 10px;
+    display: flex;
+}
+.cont h5{
+    padding-left: 15px;
+}
+.col-md-6 p{
+    padding-top: 7px;
+}
+.slider{
+   border-bottom: 2px solid #c6bdbd ;
+}
+.col-md-6.mangirl img{
+    padding-top: 15px;
+}
+#still{
+    text-align: center;
+    font-family: Poppins, semibold;
+    padding: 40px  0;
+    font-weight: 600;
+}
+#wouldtext {
+    font-family: poppins;
+font-size: 14px;
+color: #fff;
+font-weight: 300;
+}
+input.form-control.inputtext {
+    border-radius: 0px;
+}
+.col-6.inputtext1 {
+    padding: 0px;
+    padding-left: 3px;
+}
+.col.inputtext1 {
+    padding: 0px;
+    padding-left: 3px;
+}
+img.responsive.hoverclass1:hover {
+    border: 2px solid #fff;
+}
+.footer{
+    padding:23px;
+    padding-top: 45px;
+    font-size: 11px;
+}
+.footerul {
+    list-style: none;
+    display: flex;
+    padding-top: 15px;
+
+  
+    padding-left: 90px;
+}
+.footerul li {
+    margin-right: 27px;
+}
+.col-md-4.map{
+    padding-left: 65px;
+}
+.footer5 {
+
+    width: 100%;
+    background-color: #23223c;
+    color: white;
+    text-align: center;
+    padding-top: 15px;    
+    padding-bottom: 1px;
+ }
+
+ @media only screen and (max-width: 992px) {
+    #slogenlogo {
+        font-size: 40px;
+      }
+  
+    .col-7.textinbanner {
+        min-width: 100%;
+       }
+    .col-md-5.girlimg{
+      float: right;
+    }
+    .girlimg img{
+        float:right;
+        padding-top: 15%;
+    }
+    .col-md-6{
+        text-align: left;
+    }
+    .freetext {
+        padding:0px;
+        margin-right:0px;
+    }
+    .footerul {
+        flex-direction: column;
+        padding-left: 0;
+    }
+    .col-md-4.map {
+        padding-left: 0px;
+    }
+
+    #section-1 {
+     padding:0px;
+}
+.btn.btn-secondary2 {
+    color: #fff;
+    background-color: #27b8ca;
+    border: none;
+    margin: 1px;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 5px 6px;
+}
+.btn.btn-secondary3 {
+    color: rgb(8, 186, 199);
+    background-color: #ffffff;
+    border: 1px solid #27b8ca;
+    margin: 4px;
+    font-size: 7px;
+    font-weight: 500;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    padding: 7px 9px;
+}
+
+  }
+
+  @media only screen and (max-width: 720px) {
+  #trusttext {
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 18px;
+   }
+   .col-md-6.wel h1 {
+       font-size: 20px;
+   }
+   .text-center pre h1 {
+    font-size: 14px !important;
+    
+   }
+ .textinbanner h1{
+    font-size: 30px;
+ }
+.col-md-6.about h1 {
+    font-size: 26px;
+    padding-top: 5%;
+}
+   #loginandfreebutton {
+
+    float: left;
+}
+   .btn.btn-secondary2 {
+    color: #fff;
+    background-color: #27b8ca;
+    border: none;
+    margin: 1px;
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 5px 6px;
+}
+.btn.btn-secondary3 {
+    color: rgb(8, 186, 199);
+    background-color: #ffffff;
+    border: 1px solid #27b8ca;
+    margin: 4px;
+    font-size: 7px;
+    font-weight: 500;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    padding: 7px 9px;
+  }
+  #slogenlogo {
+    font-size: 34px;
+  }
+  .slick-prev {
+    left: -40px !important;
+}
+.slick-prev {
+    left: -35px !important;
+}
+#wetext {
+    font-size: 24px;
+}
+#lorenboldtext {
+        font-size: 36px;
+        padding-top: 4%;
+}
+#still {
+
+    padding: 0px ;
+    font-weight: 300;
+}
+  }
+
+  
+  @media only screen and (max-width: 720px){
+    #lorenboldtext {
+        font-size: 25px;
+       
+}
+  }
+
+/* share button ... */
+.sharebutton.col {
+    color: #fff;
+    width: 5%;
+    position: absolute;
+    left: 0;
+    top: 40%;
+    padding: 0;
+    border: 1px solid red;
+}
+.shareTomail{  
+    background-color: #7762dc;
+    padding: 0px;
+
+}
+.contactus{
+    display: flex;
+    transform: rotateZ(-90deg);
+    padding: 27px 108px 86px 7px;
+    display: flex;
+    align-items: baseline;
+}
+
+.shareTowhatsapp{
+    background-color: #34d36b;
+    text-align: center;
+    padding: 10px;
+}
+.shareToskype{
+    background-color: #1cb0ee;
+    text-align: center;
+    padding: 10px;
+}
